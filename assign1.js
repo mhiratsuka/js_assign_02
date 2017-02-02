@@ -3,4 +3,5 @@ function arrPush(array, value){
      return array.push(value)
 }
 
-console.log(arrPush(array1,4))
+console.log(arrPush(1, 4))
+
